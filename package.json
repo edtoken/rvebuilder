@@ -1,0 +1,41 @@
+{
+  "version": "0.0.0",
+  "name": "rvebuilder",
+  "description": "Simple React email html builder component",
+  "homepage": "https://github.com/edtoken/rvebuilder",
+  "author": "Eduard Titov <editied@gmail.com> (https://github.com/edtoken)",
+  "bugs": "https://github.com/edtoken/rvebuilder/issues",
+  "contributors": [],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "",
+    "test-watch": "",
+    "lint": "",
+    "tdd": "npm test -- --watch",
+    "dev-watch": "",
+    "build": "",
+    "publish": "",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "reactjs",
+    "email html",
+    "builder",
+    "email builder"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/edtoken/rvebuilder/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edtoken/rvebuilder"
+  }
+}
